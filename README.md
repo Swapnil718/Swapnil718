@@ -9,18 +9,17 @@
 </p>
 
 ---
-
 ### 👨‍💻 About me
 - **Data Analyst & Software Engineer** (M.S. IS – *Data Science*, Pace University, GPA 3.9).
 - I design **ETL pipelines, ML models, and KPI dashboards** that reduce manual reporting and speed up decisions.
 - Comfortable across **Python/SQL → ML → Tableau/Streamlit → Cloud (AWS/GCP)**.
-- Currently: Data Analyst @ **Aspire High** — leading analytics initiatives used by **80+ stakeholders**.
+- Currently: Data Analyst @ **Aspire High** - leading analytics initiatives used by **80+ stakeholders**.
 
 ---
 
 ### 🔧 Toolbox
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pyTorch,sklearn,sqlite,postgresql,mongodb,fastapi,flask,postgres,tableau,github,git,aws,gcp,vercel,render,js,nodejs,react,streamlit,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,sqlite,postgresql,mongodb,fastapi,flask,postgres,tableau,github,git,aws,gcp,vercel,render,js,nodejs,react,streamlit,tensorflow" />
 </p>
 
 > Core: **Python, SQL, Tableau/Power BI, scikit-learn, Pandas, NumPy, AWS, GCP, Streamlit, Flask, Node.js**
