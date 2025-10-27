@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://swapnil-yadav-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-swapnilyadav-111827?style=for-the-badge&logo=vercel"></a>
+  <a href="https://swapnil-yadav-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel"></a>
   <a href="https://www.linkedin.com/in/swapnil-yadav-dataanalyst/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
