@@ -1,6 +1,6 @@
 <!-- Centered headline & quick links -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=700&color=63E7F9&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Swapnil+Yadav;Data+Analyst+%2B+Software+Engineer;Python+%7C+SQL+%7C+Tableau+%7C+AWS%2FGCP;I+build+systems+where+data+%E2%86%92+insight+%E2%86%92+impact." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=700&color=63E7F9&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Swapnil+Yadav;Python+%7C+SQL+%7C+Tableau+%7C+AWS%2FGCP;I+build+systems+where+data+%E2%86%92+insight+%E2%86%92+impact." />
 </p>
 
 <p align="center">
