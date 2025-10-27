@@ -19,7 +19,7 @@
 
 ### 🔧 Toolbox
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,sqlite,postgresql,mongodb,fastapi,flask,postgres,tableau,github,git,aws,gcp,vercel,render,js,nodejs,react,streamlit,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,sqlite,postgresql,mongodb,fastapi,flask,postgres,github,git,aws,gcp,vercel,render,js,nodejs,react,tensorflow" />
 </p>
 
 > Core: **Python, SQL, Tableau/Power BI, scikit-learn, Pandas, NumPy, AWS, GCP, Streamlit, Flask, Node.js**
@@ -31,5 +31,7 @@ I love shipping data products that users actually feel — **dashboards, ML feat
 If you’re hiring for **Data Analyst / Data Science  / SDE (data)** roles, let’s chat.
 
 • **🔗 Portfolio:** <(https://swapnil-yadav-portfolio.vercel.app/)> 
+
 • **🔗 linkedIn:** <(https://www.linkedin.com/in/swapnil-yadav-dataanalyst/)>
+
 • **✉️ Email:** swapnilsanjaykumar.yadav@gmail.com
