@@ -28,7 +28,6 @@
 
 ### 🤝 Collaborations
 I love shipping data products that users actually feel — **dashboards, ML features, and backend services**.  
-If you’re hiring for **Data Analyst / Data Science  / SDE (data)** roles, let’s chat.
 
 • **🔗 Portfolio:** <([https://swapnil-yadav-portfolio.vercel.app/](https://swapnil-yadav-portfolio.vercel.app/))> 
 
