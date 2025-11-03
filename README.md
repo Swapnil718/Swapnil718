@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=python,sklearn,sqlite,postgresql,mongodb,fastapi,flask,postgres,github,git,aws,gcp,vercel,js,nodejs,react,tensorflow" />
 </p>
 
-> Core: **Python, SQL, Tableau/Power BI, scikit-learn, Pandas, NumPy, AWS, GCP, Streamlit, Flask, Node.js**
+> Core: **Python, SQL, Tableau, Power BI, scikit-learn, Pandas, NumPy, AWS, GCP, Streamlit, Flask, Node.js**
 
 ---
 
